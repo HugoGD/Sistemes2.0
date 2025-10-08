@@ -5,7 +5,8 @@ title: "¿Qué es la IA? De la mente humana a las máquinas inteligentes?"
 
 ## Lección 1. ¿Qué es la IA? De la mente humana a las máquinas inteligentes
 
-- [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/Unidad%201.pdf)
+- [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
+- [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
 
 ### Creamos target
 Comenzaremos creando el target en la carpeta correspondiente, en este caso “/etc/systemd/system”. 
