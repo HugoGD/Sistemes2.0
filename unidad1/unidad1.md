@@ -137,9 +137,8 @@ TARGET:
 SERVICE: 
 ´´´/etc/systemd/system/HugoGD.service´´´ 
 
-## Lección 2 Infectar Maquina Windows
-
 SCRIPT: 
 ´´´/usr/local/hugogd_script_sh´´´
 
+## Lección 2 Infectar Maquina Windows
  
