@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "¿Qué es la IA? De la mente humana a las máquinas inteligentes?"
+title: "Infectar maquinas desde su instalación"
 ---
 
-## Lección 1. ¿Qué es la IA? De la mente humana a las máquinas inteligentes
+## Lección 1. Infectar maquina Linux
 
 - [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
 - [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
@@ -136,6 +136,8 @@ TARGET:
 
 SERVICE: 
 ´´´/etc/systemd/system/HugoGD.service´´´ 
+
+## Lección 2 Infectar Maquina Windows
 
 SCRIPT: 
 ´´´/usr/local/hugogd_script_sh´´´
