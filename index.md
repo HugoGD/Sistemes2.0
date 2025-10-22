@@ -23,14 +23,14 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   - [Lección 2. Infectar máquina Windows](unidad1/unidad1.2.md)
 
 </details>
-
+<br>
 <details>
   <summary><strong>UNIDAD 2. XXX </strong></summary>
 
   <br>
 
-  - [Lección 1. Infectar máquina Linux]()
-  - [Lección 2. Infectar máquina Windows]()
+  - [Lección 1. Linux]()
+  - [Lección 2. Windows]()
 
 </details>
 
