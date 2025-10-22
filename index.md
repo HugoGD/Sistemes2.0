@@ -15,7 +15,12 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 <details>
-  <summary>## UNIDAD 1. Infectar máquinas desde su instalación</summary>
+  <summary><strong>UNIDAD 1. Infectar máquinas desde su instalación</strong></summary>
+
+  <br>
+
   - [Lección 1. Infectar máquina Linux](unidad1/unidad1.md)
   - [Lección 2. Infectar máquina Windows](unidad1/unidad1.2.md)
+
 </details>
+
