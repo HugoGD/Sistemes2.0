@@ -63,6 +63,13 @@ Hacemos el menuconfig y quitamos la virtualización en el archivo de configuraci
 
 <img width="686" height="644" alt="image" src="https://github.com/user-attachments/assets/0da7626e-9038-433e-baf7-4a422d7b6d67" />
 
+Eliminamos las siguientes lineas de las keys certificadas
+
+<img width="623" height="478" alt="image" src="https://github.com/user-attachments/assets/22c15756-6c06-414e-8310-316d8c0807e6" />
+
+<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/7d71e336-1243-4dfb-b01b-e58869bf5801" />
+
+
 Guardamos en .config
 
 <img width="648" height="373" alt="image" src="https://github.com/user-attachments/assets/e5bb8c6e-49c4-4407-a48d-4c0a41140516" />
