@@ -40,3 +40,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   [Lección 1. Linux]()
   [Lección 2. Windows]()
 </details>
+
+<br>
