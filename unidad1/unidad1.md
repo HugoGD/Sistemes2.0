@@ -3,15 +3,15 @@ layout: default
 title: "Infectar maquinas desde su instalación"
 ---
 
-## Lección 1. Infectar maquina Linux
+## Sprint 1. Infectar maquina Linux
 
 <details>
   <summary><strong>MATERIAL</strong></summary>
 
   <br>
 
-- [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
-- [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
+[Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
+[Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
 
 </details>
 
