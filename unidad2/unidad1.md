@@ -15,7 +15,7 @@ title: "Modificación y compilación de Kernels"
 
 </details>
 
-## KERNEL
+### KERNEL
 
 Nos situamos en la carpeta de descargas
 
