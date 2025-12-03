@@ -18,8 +18,8 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 <details markdown="1">
 <summary><strong>UNIDAD 1. Infectar máquinas desde su instalación</strong></summary>
 
-- [Lección 1. Infectar máquina Linux](unidad1/unidad1.html)
-- [Lección 2. Infectar máquina Windows](unidad1/unidad1.2.html)
+- [Lección 1. Infectar máquina Linux](unidad1/unidad1.md)
+- [Lección 2. Infectar máquina Windows](unidad1/unidad1.2.md)
 
 </details>
 
@@ -28,6 +28,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 <details markdown="1">
 <summary><strong>UNIDAD 2. Instalación Kernel</strong></summary>
 
-- [Lección 1. Linux](unidad2/unidad1.html)
+- [Lección 1. Linux](unidad2/unidad1.md)
 
 </details>
