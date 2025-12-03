@@ -11,6 +11,7 @@ title: "Infectar maquinas desde su instalación"
   <br>
 
 [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
+<br>
 [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
 
 </details>
