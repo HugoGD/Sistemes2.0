@@ -25,7 +25,16 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 </details>
 <br>
 <details>
-  <summary><strong>UNIDAD 2. XXX </strong></summary>
+  <summary><strong>UNIDAD 2. Instalación Kernel </strong></summary>
+
+  <br>
+
+  - [Lección 1. Linux](unidad2/unidad1.md)
+
+</details>
+<br>
+<details>
+  <summary><strong>UNIDAD 3. XXX </strong></summary>
 
   <br>
 
