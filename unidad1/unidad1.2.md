@@ -3,10 +3,11 @@ layout: default
 title: "Infectar maquinas desde su instalación"
 ---
 
-## Lección 2. Infectar maquina Windows
+## Sprint 1. Infectar maquina Windows
 
-- [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DocumentacionACT2.pdf)
-- [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
+[Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DocumentacionACT2.pdf)
+<br>
+[Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
 
 ### Instalación NSSM
 Instalamos él .zip, seguidamente lo extraemos y seguimos los pasos de instalación:
