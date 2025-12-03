@@ -3,7 +3,7 @@ layout: default
 title: "Modificación y compilación de Kernels"
 ---
 
-## Lección 1. Kernel Linux
+## Lección 2. Kernel Linux
 
 <details>
   <summary><strong>MATERIAL</strong></summary>
