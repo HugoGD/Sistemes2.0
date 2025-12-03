@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ASIX2"
+title: "ASIX2."
 ---
 
 Este repositorio contiene el material y practicas realizadas por Hugo Gallardo.
