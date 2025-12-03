@@ -10,8 +10,8 @@ title: "Modificación y compilación de Kernels"
 
   <br>
 
-- [Documentación (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
-- [Documentación Practica Kernel (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
+- [Documentación (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad2/Guia%20Kernel.pdf)
+- [Documentación Practica Kernel (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad2/Documentacion%20Kernel.pdf)
 
 </details>
 
