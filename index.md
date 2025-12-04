@@ -33,11 +33,8 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   
 [Sprint 2. Kernel Linux](unidad2/unidad1.md)
   
-</details>
-
 <br>
 
-<details>
   <summary><strong>UNIDAD 3. XXX </strong></summary>
   <br>
   
@@ -45,8 +42,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   
 [Lección 2. Windows]()
   
-</details>
-
 <br>
 
 Actualizando...
