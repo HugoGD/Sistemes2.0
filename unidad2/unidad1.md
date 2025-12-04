@@ -5,16 +5,11 @@ title: "Modificación y compilación de Kernels"
 
 ## Sprint 2. Kernel Linux
 
-<details>
   <summary><strong>MATERIAL</strong></summary>
-
   <br>
-
 [Documentación (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad2/Guia%20Kernel.pdf)
 <br>
 [Documentación Practica Kernel (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad2/Documentacion%20Kernel.pdf)
-
-</details>
 
 ### KERNEL
 
