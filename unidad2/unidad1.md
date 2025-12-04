@@ -88,5 +88,18 @@ Iniciamos la compilacion
 
 <img width="691" height="563" alt="image" src="https://github.com/user-attachments/assets/ceda7e12-b77a-4809-bbdf-b85a439dc108" />
 
+Iniciamos los paquetes con dpkg -i 
+
+<img width="891" height="562" alt="image" src="https://github.com/user-attachments/assets/83e8d943-3891-4671-8844-eaadcd1c24cf" />
+
+Iniciamos el sistema y entramos dentro del kernel nuevo en mi caso 6.8.1
+
+<img width="741" height="240" alt="image" src="https://github.com/user-attachments/assets/cca37c6c-a1e1-49f4-a74d-358eb1c81c6d" />
+
+Comprobamos los pr_notice
+
+<img width="649" height="168" alt="image" src="https://github.com/user-attachments/assets/b9ff438e-1866-471b-9b1f-0b576b8bac3f" />
+
+
 
 
