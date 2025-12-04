@@ -5,7 +5,7 @@ title: "Infectar maquinas desde su instalación"
 
 ## Sprint 1. Infectar maquina Linux
 
-<details>
+
   <summary><strong>MATERIAL</strong></summary>
 
   <br>
@@ -13,8 +13,6 @@ title: "Infectar maquinas desde su instalación"
 [Material teórico HugoGD (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/DOCUMENTACION%20ACT%201.pdf)
 <br>
 [Documentación Practica (PDF)](https://github.com/HugoGD/Sistemes2.0/blob/main/unidad1/ACTIVITAT1.pdf)
-
-</details>
 
 ### Creamos target
 Comenzaremos creando el target en la carpeta correspondiente, en este caso “/etc/systemd/system”. 
