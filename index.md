@@ -15,23 +15,23 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-<details>
-  <summary><strong>UNIDAD 1. Infectar máquinas desde su instalación</strong></summary>
+
+## <strong>UNIDAD 1. Infectar máquinas desde su instalación</strong>
+
   <br>
   
-[Lección 1. Infectar máquina Linux](unidad1/unidad1.md)
+[Sprint 1. Infectar máquina Linux](unidad1/unidad1.md)
   
-[Lección 2. Infectar máquina Windows](unidad1/unidad1.2.md)
+[Sprint 1. Infectar máquina Windows](unidad1/unidad1.2.md)
   
-</details>
+
 
 <br>
 
-<details>
-  <summary><strong>UNIDAD 2. Instalación Kernel </strong></summary>
+## <strong>UNIDAD 2. Instalación Kernel </strong>
   <br>
   
-[Lección 1. Kernel Linux](unidad2/unidad1.md)
+[Sprint 2. Kernel Linux](unidad2/unidad1.md)
   
 </details>
 
