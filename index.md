@@ -16,7 +16,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 ## Contenido del curso
 
 
-## <strong>UNIDAD 1. Infectar máquinas desde su instalación</strong>
+## <strong>SPRINT 1. Infectar máquinas desde su instalación</strong>
 
   <br>
   
@@ -28,7 +28,7 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 <br>
 
-## <strong>UNIDAD 2. Instalación Kernel </strong>
+## <strong>SPRINT 2. Instalación Kernel </strong>
   <br>
   
 [Sprint 2. Kernel Linux](unidad2/unidad1.md)
