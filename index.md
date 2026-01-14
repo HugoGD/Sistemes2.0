@@ -35,12 +35,10 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
   
 <br>
 
-  <summary><strong>UNIDAD 3. XXX </strong></summary>
+  <summary><strong>UNIDAD 3. VPN </strong></summary>
   <br>
-  
-[Lección 1. Linux]()
-  
-[Lección 2. Windows]()
+   
+[Sprint 3. Windows](unidad3/unidad3.md)
   
 <br>
 
